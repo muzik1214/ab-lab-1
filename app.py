@@ -1,5 +1,7 @@
 def temp():
-    print("Hello, World!")
+    print('Hello, World!')
+
 
 temp()
-print("This is a test.")
+
+print('This is a test.')
